@@ -1,1 +1,1 @@
-Assignments from (http://knowbigdata.com "KnowBigData")
+Assignments from [KnowBigData.com](http://knowbigdata.com)
